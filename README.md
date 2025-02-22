@@ -1,2 +1,2 @@
-# test-project-repo
-This is a test project repository
+# test-project-repository
+This is a test project repository added for practice
